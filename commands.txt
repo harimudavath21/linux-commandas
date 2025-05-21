@@ -1,0 +1,9 @@
+ls
+history
+sudo apt update
+sudo apt upgrade
+sudo apt install
+cd
+cd ..
+cat file name
+
